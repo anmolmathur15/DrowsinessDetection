@@ -1,2 +1,1 @@
-# DrowsinessDetection
-BTP 8th sem
+# 8th-Sem-BTP
